@@ -1,0 +1,987 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"head",
+				"heading"
+			],
+			[
+				"Form",
+				"FormGroup"
+			],
+			[
+				"vi",
+				"viewIndex"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"i",
+				"index"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"val",
+				"valueArray"
+			],
+			[
+				"p",
+				"pValueArray"
+			],
+			[
+				"Pri",
+				"Println"
+			],
+			[
+				"Array",
+				"ArrayBuffer"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"numb",
+				"numberGuess"
+			],
+			[
+				"b",
+				"bcrypt"
+			],
+			[
+				"Collecti",
+				"Collection"
+			],
+			[
+				"sc",
+				"scan_response"
+			],
+			[
+				"html",
+				"htmlfile"
+			],
+			[
+				"temp",
+				"templateFile"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 119227,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/index.js",
+			"settings":
+			{
+				"buffer_size": 297,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/App.js",
+			"settings":
+			{
+				"buffer_size": 542,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mustafa/Downloads/enzyme-master/README.md",
+			"settings":
+			{
+				"buffer_size": 7832,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/views/Home.js",
+			"settings":
+			{
+				"buffer_size": 1070,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/views/Display.js",
+			"settings":
+			{
+				"buffer_size": 732,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/views/Edit.js",
+			"settings":
+			{
+				"buffer_size": 1803,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/views/Header.js",
+			"settings":
+			{
+				"buffer_size": 248,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "Header"
+			}
+		},
+		{
+			"file": "src/views/Footer.js",
+			"settings":
+			{
+				"buffer_size": 227,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					""
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Install"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Cross-Compile (Interactive)"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Golang Build/Go.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"esl",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"pins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"pc insa",
+				"Package Control: Install Package"
+			],
+			[
+				"add al",
+				"Git: Add All"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git a",
+				"Git: Add All"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"git ",
+				"Git: Status"
+			],
+			[
+				"git:a",
+				"Git: Add..."
+			],
+			[
+				"go:",
+				"Go: Open Terminal"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"git com",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"upgrad",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"find",
+				"Keymaps: Find a keymap for..."
+			],
+			[
+				"pc",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"",
+				"HTTP Requester"
+			],
+			[
+				"git:rese",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"git:",
+				"Git: Fetch"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Pac",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"form",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"code",
+				"Codec: Base64 decode"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"Data",
+				"DataConverter: to JSON"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"for",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"syntax JSO",
+				"Set Syntax: JSON"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 442.0
+	},
+	"console":
+	{
+		"height": 282.0,
+		"history":
+		[
+			"git commit",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/mustafa/workspace/rule-engine-ui",
+		"/home/mustafa/workspace/rule-engine-ui/src",
+		"/home/mustafa/workspace/rule-engine-ui/src/views"
+	],
+	"file_history":
+	[
+		"/home/mustafa/Downloads/enzyme-master/docs/guides.md",
+		"/home/mustafa/workspace/rule-engine-ui/rule-engine-ui.sublime-project",
+		"/home/mustafa/workspace/rule-engine-ui/src/registerServiceWorker.js",
+		"/home/mustafa/workspace/rule-engine-ui/node_modules/history/README.md",
+		"/home/mustafa/workspace/rule-engine-ui/node_modules/react-dom/cjs/react-dom.development.js",
+		"/home/mustafa/workspace/rule-engine-ui/src/index.js",
+		"/home/mustafa/workspace/rule-engine-ui/.gitignore",
+		"/home/mustafa/workspace/jenkins-scripting/jenkins-scripting.sublime-project",
+		"/home/mustafa/reactjs-1/src/index.js",
+		"/home/mustafa/reactjs-1/public/index.html",
+		"/home/mustafa/reactjs-1/src/App.css",
+		"/home/mustafa/reactjs-1/src/index.css",
+		"/home/mustafa/asx/src/App.css",
+		"/home/mustafa/reactjs-1/README.md",
+		"/home/mustafa/reactjs-1/src/Layout.js",
+		"/home/mustafa/Downloads/node-v8.11.2-linux-x64/README.md",
+		"/D/Development/workspace/java-design-patterns/multiton/src/main/java/com/iluwatar/multiton/App.java",
+		"/D/Development/workspace/java-design-patterns/multiton/src/main/java/com/iluwatar/multiton/Nazgul.java",
+		"/D/Development/workspace/java-design-patterns/multiton/src/main/java/com/iluwatar/multiton/NazgulEnum.java",
+		"/D/Development/workspace/java-design-patterns/multiton/src/main/java/com/iluwatar/multiton/NazgulName.java",
+		"/D/Development/workspace/java-design-patterns/monostate/src/main/java/com/iluwatar/monostate/App.java",
+		"/D/Development/workspace/java-design-patterns/monostate/src/main/java/com/iluwatar/monostate/LoadBalancer.java",
+		"/D/Development/workspace/java-design-patterns/monostate/src/main/java/com/iluwatar/monostate/Request.java",
+		"/D/Development/workspace/java-design-patterns/java-design-patterns.sublime-project",
+		"/D/Development/workspace/java-design-patterns/monostate/pom.xml",
+		"/D/Development/workspace/java-design-patterns/prototype/README.md",
+		"/D/Development/workspace/java-design-patterns/factory-method/src/test/java/com/iluwatar/factory/method/FactoryMethodTest.java",
+		"/D/Development/workspace/java-design-patterns/singleton/src/main/java/com/iluwatar/singleton/InitializingOnDemandHolderIdiom.java",
+		"/C/Users/Mustafa/weather/src/App.js",
+		"/D/Development/workspace/lagom-hello/my-first-system/pom.xml",
+		"/D/Development/workspace/my-second-system/hello-api/src/main/java/com/example/lagom/hello/api/HelloService.java",
+		"/D/Development/Go/workspace/learning-go/GoGotchas.md",
+		"/D/Development/Go/workspace/nmatrix.go",
+		"/D/Development/Go/workspace/main.go",
+		"/C/Users/Mustafa/weather/README.md",
+		"/D/Development/workspace/my-second-system/hello-api/src/main/java/com/example/lagom/hello/api/GreetingMessage.java",
+		"/D/Development/workspace/java-design-patterns/pom.xml",
+		"/D/Development/workspace/lagom-hello/my-first-system/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/kafka_data/meta.properties",
+		"/D/Development/Maven3/conf/settings.xml",
+		"/D/Development/workspace/lagom-hello/my-first-system/kafka-server.properties",
+		"/D/Development/Kafka/kafka_2.11-0.10.1.1/config/server.properties",
+		"/D/Development/workspace/lagom-hello/my-first-system/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/log4j_output/server.log",
+		"/D/Development/workspace/my_read_list/reactive_microservice.md",
+		"/D/Development/Kafka/kafka_2.11-0.10.1.1/reassign.json",
+		"/C/Users/Mustafa/Desktop/a.html",
+		"/D/Development/Kafka/kafka_2.11-0.10.1.1/config/cluster-1.properties",
+		"/D/Development/Kafka/kafka_2.11-0.10.1.1/config/cluster-2.properties",
+		"/D/Development/Kafka/kafka_2.11-0.10.1.1/config/cluster-3.properties",
+		"/D/Development/Kafka/Kafdrop/src/main/java/com/homeadvisor/kafdrop/config/CuratorConfiguration.java",
+		"/D/Development/Kafka/Kafdrop/src/main/resources/application.yml",
+		"/D/Development/Kafka/Kafdrop/src/main/resources/messages.properties",
+		"/D/Development/Jrebel/Changelog.txt",
+		"/D/Development/Vim/_vimrc",
+		"/D/Development/Go/workspace/learning-go/fibonacci-closure.go",
+		"/C/Users/Mustafa/Desktop/lorem.txt",
+		"/D/Development/Go/workspace/learning-go/knapsack.go",
+		"/D/Development/Go/workspace/learning-go/wordcount.go",
+		"/D/Development/Go/workspace/learning-go/.git/COMMIT_EDITMSG",
+		"/D/Development/Go/workspace/test.go",
+		"/C/Users/Mustafa/Desktop/Dtp/GeneralHashFunctionLibrary.java",
+		"/C/Users/Mustafa/Desktop/Dockerfile.multi",
+		"/D/Development/workspace/scala-tuts/ScalaTutorial.scala",
+		"/D/Development/Sublime3/Data/Packages/User/golang.sublime-settings",
+		"/C/Users/Mustafa/Downloads/credentials.csv",
+		"/C/Users/Mustafa/Downloads/cluster.spec",
+		"/C/Users/Mustafa/.ssh/config",
+		"/C/Users/Mustafa/Downloads/admin (2)",
+		"/C/Users/Mustafa/Downloads/kube (1)",
+		"/D/var/log/ws-server.log",
+		"/C/Users/Mustafa/Desktop/pom.xml",
+		"/C/Users/Mustafa/Downloads/MOCK_DATA1.csv",
+		"/C/Users/Mustafa/Downloads/MOCK_DATA0.csv",
+		"/C/Users/Mustafa/Downloads/MOCK_DATA2.csv",
+		"/C/Users/Mustafa/Downloads/config",
+		"/C/Users/Mustafa/Downloads/kube",
+		"/C/Users/Mustafa/Downloads/admin (1)",
+		"/C/Users/Mustafa/Downloads/admin",
+		"/C/Users/Mustafa/Desktop/isengard-instance-pk",
+		"/C/Users/Mustafa/Desktop/hash-results.txt",
+		"/D/nba/test/customers.csv",
+		"/C/Users/Mustafa/Downloads/zookeeper.yaml",
+		"/C/Users/Mustafa/Downloads/deployment.yaml",
+		"/C/Users/Mustafa/Desktop/request.xml",
+		"/D/Development/workspace/reactive/src/main/java/com/mustafatosun/reactive/ReactiveApplication.java",
+		"/C/Users/Mustafa/Desktop/SoapServerConfig.java",
+		"/C/Users/Mustafa/Desktop/BeerEndpoint.java",
+		"/C/Users/Mustafa/Desktop/Authentication.java",
+		"/D/subject_repo/node_1/3000/3000.dat",
+		"/D/subject_repo/node_1/1/1.dat",
+		"/D/nba/ces_node_1/124/124.dat",
+		"/C/Users/Mustafa/Downloads/pom.xml",
+		"/D/nba/ces_node_1/4/4.md5",
+		"/D/nba/ces_node_1/1/1.md5",
+		"/D/m3/com/ykb/crm/nba/customer-eligibility-model/1.0.0/customer-eligibility-model-1.0.0.pom",
+		"/D/m3/com/fasterxml/jackson/core/jackson-core/2.9.1/_remote.repositories",
+		"/D/m3/com/fasterxml/jackson/core/jackson-core/2.9.1/jackson-core-2.9.1.pom",
+		"/D/Development/workspace/hash-function-benchmarks/src/main/java/com/mustafatosun/hash/HashFunction.java",
+		"/D/tmp/gg/.git/logs/HEAD",
+		"/C/Users/Mustafa/.gitconfig",
+		"/C/Users/Mustafa/AppData/Local/Temp/hBxUpa_a.txt",
+		"/D/tmp/gg/.git/logs/refs/heads/master",
+		"/D/tmp/gg/loremgen.txt",
+		"/D/tmp/gg/.git/config",
+		"/C/Users/Mustafa/Downloads/giraph-dist-1.2.0-bin/giraph-1.2.0-for-hadoop-1.2.1/conf/giraph-site.xml",
+		"/D/tmp/gr/.git/logs/refs/heads/master",
+		"/D/tmp/gr/.git/MERGE_MSG",
+		"/D/tmp/gg/lorem.txt",
+		"/D/tmp/gg/output.dat",
+		"/D/tmp/gg/.git/info/refs",
+		"/D/tmp/gg/.git/logs/refs/heads/feature/mustafa",
+		"/D/tmp/gg/.git/HEAD",
+		"/D/tmp/gg/.git/objects/d0/0491fd7e5bb6fa28c517a0bb32b8b506539d4d",
+		"/D/tmp/gg/.git/objects/02/bdfa7bef60afbeb20ae09bb3145e2a4b1cb977",
+		"/D/tmp/gg/.git/objects/01/e79c32a8c99c557f0757da7cb6d65b3414466d",
+		"/D/tmp/gg/.git/index",
+		"/D/tmp/gg/a.txt",
+		"/D/tmp/gg/.git/info/exclude",
+		"/D/tmp/gg/.git/hooks/pre-commit.sample",
+		"/D/Development/workspace/merge-trials/.git/description",
+		"/D/Development/workspace/merge-trials/.git/objects/06/f6af3c1cc2cf03d5e98ce67545884d912b3816",
+		"/D/Development/workspace/merge-trials/.git/objects/2f/1efb1b1a37d4f9a54852ba8fe5c6574d9ccc61",
+		"/D/Development/workspace/merge-trials/.git/objects/2d/f167e760488faa35e361760a7e89ae9353b8e0",
+		"/D/Development/workspace/merge-trials/.git/index",
+		"/D/Development/workspace/merge-trials/.git/ORIG_HEAD",
+		"/D/Development/workspace/merge-trials/.git/HEAD",
+		"/D/Development/workspace/merge-trials/.git/config",
+		"/D/Development/workspace/merge-trials/.git/COMMIT_EDITMSG",
+		"/D/Development/workspace/merge-trials/.git/info/exclude"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 379.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pret",
+			"ESlint",
+			"Header",
+			"App",
+			"\t\t,",
+			"pret",
+			"pretyfier",
+			"Hash",
+			"Browser",
+			"';\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"Memory",
+			"Hash"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 119227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13823,
+								13823
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7317.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								296,
+								296
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 542,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								542,
+								542
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/mustafa/Downloads/enzyme-master/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7832,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7205,
+								7205
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5175.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/views/Home.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1070,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								935,
+								935
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 57.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/views/Display.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 732,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								562,
+								562
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/views/Edit.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1803,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1613,
+								1613
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/views/Header.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								213,
+								213
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Header",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/views/Footer.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 117.0
+	},
+	"output.golang_build":
+	{
+		"height": 177.0
+	},
+	"output.markdown":
+	{
+		"height": 216.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "rule-engine-ui.sublime-project",
+	"replace":
+	{
+		"height": 94.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Development\\workspace\\learn-by-yourself\\README.md"
+			],
+			[
+				"000",
+				"C:\\Users\\Mustafa\\AppData\\Local\\Temp\\wOIv3sGaxh\\0000-cover-letter.patch"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/casual.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 210.0,
+		"last_filter": "render",
+		"selected_items":
+		[
+			[
+				"render",
+				"then(response => {\n      // Ensure service worker exists, and that we really are getting a JS file.\n      if (\n        response.status === 404 ||\n        response.headers.get('content-type').indexOf('javascript') === -1\n      ) {\n        // No service worker found. Probably a different app. Reload the page.\n        navigator.serviceWorker.ready.then(registration => {\n          registration.unregister().then(() => {\n            window.location.reload();\n          });\n        });\n      } else {\n        // Service worker found. Proceed as normal.\n        registerValidSW(swUrl);\n      }\n    })\n"
+			],
+			[
+				"singleton",
+				"getSingleton"
+			],
+			[
+				"factorymet",
+				"FactoryMethodTest"
+			],
+			[
+				"Idiom",
+				"InitializingOnDemandHolderIdiom"
+			],
+			[
+				"SingletonTest",
+				"SingletonTest"
+			]
+		],
+		"width": 588.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
